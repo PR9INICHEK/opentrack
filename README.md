@@ -7,3 +7,4 @@
 7. [ВЕБ камера PS3 EYE + джойстик с выводом на Opentrack. Демонстрация в полёте. - Oleg Bormosov](https://www.youtube.com/watch?v=KeyvJ5bbCNA)
 
 
+[Если захочу попробовать TrackIR 5](https://forum.il2sturmovik.ru/topic/3049-trackir-5-%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9-%D0%B2-%D0%BD%D0%B0%D0%BB%D0%B8%D1%87%D0%B8%D0%B8-%D0%BF%D0%B8%D1%82%D0%B5%D1%80/)
